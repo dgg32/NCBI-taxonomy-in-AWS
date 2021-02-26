@@ -1,6 +1,6 @@
 # Serve NCBI Taxonomy as API in AWS
 
-This repository hosts the code for the blog post: Serve NCBI Taxonomy in AWS, Serverlessly
+This repository hosts the code for the blog post: [Serve NCBI Taxonomy in AWS, Serverlessly](https://dgg32.medium.com/serve-ncbi-taxonomy-in-aws-serverlessly-d2725b5e2c41).
 
 
 # Files
